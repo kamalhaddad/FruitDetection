@@ -5,7 +5,7 @@ Additionally, there is a django server that allows for files to be uploaded and 
 
 The frontend is simple and implemented in ReactJS.
 
-###TODO:
+## TODO:
 
 Docker containers
 
